@@ -1,5 +1,6 @@
 # E-Commerce-ORM
 https://github.com/Blair-D/E-Commerce-ORM
+![Alt text](screenShot.png)
 
 # Description
 The goal of this project was to create an ecommerce backend.
